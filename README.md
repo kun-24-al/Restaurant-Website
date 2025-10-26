@@ -33,7 +33,8 @@ npm run preview
 ## 🌐 Live Demo
 
 **Live Site: https://restaurant-website-eight-delta.vercel.app/
-**GitHub Repository: https://restaurant-website-eight-delta.vercel.app/
+
+**GitHub Repository: https://github.com/kun-24-al/Restaurant-Website
 
 ## ✨ Key Features Implemented
 
