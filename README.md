@@ -32,8 +32,8 @@ npm run preview
 
 ## 🌐 Live Demo
 
-**Live Site: https://vercel.com/dileepkumars-projects-95575d6b/tiffinbox-app/3HNWvUc3B1YQVV6mTC5ravYHWaLo
-**GitHub Repository: https://tiffinbox-app.vercel.app/
+**Live Site: https://restaurant-website-eight-delta.vercel.app/
+**GitHub Repository: https://restaurant-website-eight-delta.vercel.app/
 
 ## ✨ Key Features Implemented
 
